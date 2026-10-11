@@ -1,0 +1,10 @@
+{
+    "processor_name": "Processor A",
+    "description": "Five-qubit baseline architecture",
+    "num_qubits": 5,
+    "architecture": "baseline",
+    "coupling_map": null,
+    "basis_gates": null,
+    "noise_model": null,
+    "transpiler_config": null
+}

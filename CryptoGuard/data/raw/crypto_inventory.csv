@@ -1,0 +1,6 @@
+﻿asset_id,asset_name,algorithm,data_sensitivity,exposure
+A001,Customer Database,RSA,High,Internet-facing
+A002,Internal Authentication,ECDSA,Medium,Internal
+A003,Legacy Encryption,3DES,High,Internal
+A004,Secure Key Exchange,ECDH,High,Internet-facing
+A005,Modern PQC Test,ML-KEM,Medium,Internal

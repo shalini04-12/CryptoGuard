@@ -1,0 +1,10 @@
+{
+    "processor_name": "Processor B",
+    "description": "Seven-qubit heavy-hex-inspired architecture",
+    "num_qubits": 7,
+    "architecture": "heavy_hex_inspired",
+    "coupling_map": null,
+    "basis_gates": null,
+    "noise_model": null,
+    "transpiler_config": null
+}
